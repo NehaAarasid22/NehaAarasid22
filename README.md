@@ -42,7 +42,7 @@
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -64,18 +64,18 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=NehaAarasid22&theme=algolia&margin-w=15"/>
 </p>
-
+- 🍷 Wine Quality Prediction
 ---
 
 ## 📂 Featured Projects
 
 - 📊 Retail Sales Analysis
 - 🏠 House Price Prediction
-- 🍷 Wine Quality Prediction
+
 - 👥 Customer Segmentation
 
 ---
-
+-->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=NehaAarasid22&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
