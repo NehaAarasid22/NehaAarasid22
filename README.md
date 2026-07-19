@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | Final Year Computer Engineering Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Visualization+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Visualization+Enthusiast;Open+to+Data+Analyst+Opportunities" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="linkedin.com/in/neha-aarasid-38033041b"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+<a href="https://www.linkedin.com/in/neha-aarasid-38033041b"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
 <a href="mailto:nehaaarasid@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </p>
 
