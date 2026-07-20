@@ -14,7 +14,6 @@
 - 🐍 Learning Python, SQL & Power BI
 - 📈 Love working with Data & Dashboards
 - 🌱 Currently improving my Data Analytics skills
-- 🎯 Goal: Get a Data Analyst Job
 
 ---
 
